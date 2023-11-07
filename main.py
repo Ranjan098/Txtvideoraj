@@ -58,7 +58,7 @@ bot = Client("bot",
              bot_token=os.environ.get("BOT_TOKEN"),
              api_id=int(os.environ.get("API_ID")),
              api_hash=os.environ.get("API_HASH"))
-auth_users = [5318243282]
+auth_users = [5318243282,1311808931]
 sudo_users = auth_users
 sudo_groups = [-1001699711548]
 
