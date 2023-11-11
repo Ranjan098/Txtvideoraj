@@ -883,7 +883,7 @@ async def account_login(bot: Client, m: Message):
                 headers = {
                     'Host': 'api.classplusapp.com',
                     'x-access-token':
-                    'eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6ODQ5OTMyOTAsIm9yZ0lkIjoyMjkzLCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTk1MDg1NTQwNDQiLCJuYW1lIjoiUG9vamEgS3VtYXJpIiwiZW1haWwiOm51bGwsImlzSW50ZXJuYXRpb25hbCI6MCwiZGVmYXVsdExhbmd1YWdlIjoiRU4iLCJjb3VudHJ5Q29kZSI6IklOIiwiY291bnRyeUlTTyI6IjkxIiwidGltZXpvbmUiOiJHTVQrNTozMCIsImlzRGl5Ijp0cnVlLCJvcmdDb2RlIjoidGNobiIsImZpbmdlcnByaW50SWQiOiJhM2VlMDVmYmRlMzk1ODE4NGY2ODI4MzliZTRmZDBmNyIsImlhdCI6MTY5NzEyNjY5NCwiZXhwIjoxNjk3NzMxNDk0fQ.2JQHizg8LUhv9vG679qk6ZRK6KfwQWkw5xps95lzCcKaaIMvPsJMhAX-ANhS1Pf7',
+                    'eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6OTc1OTk5NjMsIm9yZ0lkIjozNTE1MjEsInR5cGUiOjEsIm1vYmlsZSI6IjkxNjM1OTE0NjE0NSIsIm5hbWUiOiJQcmFrYXNoIEJhcmFpeWEiLCJlbWFpbCI6InByYWthc2gxNTEwODNAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJhdWZpciIsImZpbmdlcnByaW50SWQiOiJjOWIxZDZiZDMxMTI3M2U0OTJiNTcxYTAwMWQ0YTkyNSIsImlhdCI6MTY5MDY5ODczOCwiZXhwIjoxNjkxMzAzNTM4fQ.kDUNPb5EFDp1vmNZ-VcRIBn2vSEz_ssyAxmqbSDLJFD42g7i43aIrWgFbWYfh60L',
                     'user-agent': 'Mobile-Android',
                     'app-version': '1.4.37.1',
                     'api-version': '18',
